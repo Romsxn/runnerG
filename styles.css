@@ -150,6 +150,10 @@ a{
     .menu-bar{
         display: none;
     }
+    .info-running{
+        width: 100%;
+        margin: 0 auto;
+    }
 }
 /* Main Content */
 .main-content{
